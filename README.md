@@ -1,4 +1,4 @@
-# Blockchain Infrastructure
+# Thai Blockchain Services Infrastructure
 ## Minimum Requirements
 * A VM, or bare-metal, with 2 cores, 4 GB RAM, 250 GB SSD, 100 Mbps Internet access with a Public IP Address
 * Linux, preferably, Ubuntu LTS, Alma Linux, or Rocky Linux
