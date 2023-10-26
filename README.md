@@ -27,7 +27,7 @@ Initialize the node with the genesis
 docker run --rm -it -v $PWD:/srv/signer -w /srv/signer ethereum/client-go:stable --datadir /srv/signer/node init genesis.json
 ```
 
-Edit start-node.sh script, change --node and --unlock accordingly
+Edit start-node.sh script, change --node, --unlock, and --miner.etherbase accordingly
 
 Then, run
 ```bash
