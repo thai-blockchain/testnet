@@ -14,5 +14,6 @@ docker run -dit --restart=unless-stopped \
 	--gcmode archive \
 	--syncmode full \
 	--mine \
+	--miner.etherbase abcdef0123456789abcdef0123456789abcdef01 \
 	--nousb \
 	--nodiscover
